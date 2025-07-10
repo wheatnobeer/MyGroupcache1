@@ -1,7 +1,7 @@
-package MyGroupcache1
+package geecache
 
 import (
-	"_Mygroupcache/lru"
+	"geecache/lru"
 	"sync"
 )
 

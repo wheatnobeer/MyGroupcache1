@@ -1,4 +1,4 @@
-package MyGroupcache1
+package geecache
 
 import (
 	"fmt"

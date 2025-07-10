@@ -1,4 +1,4 @@
-package MyGroupcache1
+package geecache
 
 type ByteView struct {
 	b []byte
